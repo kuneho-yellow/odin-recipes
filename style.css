@@ -1,0 +1,48 @@
+* {
+    font-family: "Segoe UI", Verdana, serif;
+    background-color: white;
+    color: black;
+}
+
+ul {
+    align-items: center;
+    align-content: center;
+}
+
+.page-title {
+    text-align: center;
+}
+
+div.navigation
+{
+    border: 1px gray solid;
+    border-radius: 4px;
+    padding: 10px;
+    max-width: 400px;
+    display: block;
+    margin: auto;
+}
+
+div.recipe {
+    border: 1px gray dashed;
+    padding: 20px;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+}
+
+.img-desc {
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    margin-top: 6px;
+}
+
+img.recipe {
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    border: 1px gray solid;
+    border-radius: 4px;
+    padding: 5px;
+}
